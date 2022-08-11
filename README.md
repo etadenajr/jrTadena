@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jrTadena
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I love reading and listening podcast.
+- 📫 How to reach me...
 
 <!---
 jrTadena/jrTadena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
