@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrTadena
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning svelte.
+- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
